@@ -1,4 +1,4 @@
-# Predicting-rainfall-in-Australia.
+# Predicting-rainfall.
 LINK OF OUR DATASET: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 The main aim of this project is to build different classification models to predict rainfall in Australia.
